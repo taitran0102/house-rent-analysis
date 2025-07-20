@@ -60,7 +60,7 @@ A Directed Graphical Model (Bayesian Network - BN), on the other hand, can help 
 ---
 
 ### Key takeaways
-(See [`Python` code file](Munich_EDA.ipynb) and  [`R` code file](Munich_BN.ipynb) for all the details)
+(See [`Python` code](Munich_EDA.ipynb) and  [`R` code](Munich_BN.ipynb) for all the details)
 #### 1. Exploratory Data Analysis
 
 ##### 1.1. Dataset properties:
