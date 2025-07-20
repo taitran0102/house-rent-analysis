@@ -60,6 +60,7 @@ A Directed Graphical Model (Bayesian Network - BN), on the other hand, can help 
 ---
 
 ### Key takeaways
+(See [`Python` code file](Munich_EDA.ipynb) and  [`R` code file])(Munich_BN.ipynb) for all the details)
 #### 1. Exploratory Data Analysis
 
 ##### 1.1. Dataset properties:
@@ -108,8 +109,6 @@ A Directed Graphical Model (Bayesian Network - BN), on the other hand, can help 
 
     and many of them still have very high rents (sometimes matching or exceeding those in the `top` group), suggesting that `location` is not the only factor influencing `rent`.
 
-See [`Python` code file](Munich_EDA.ipynb) and  [`R` code file])(Munich_BN.ipynb) for all the details.
-    
   - Finally, `area` and number of rooms (`rooms`) have a positive linear correlation with `rent`, meaning that `rent` tends to increase as these two variables increase. Meanwhile, the correlation between year of construction (`yearc`) and `rent` is quite weak.
 
 #### 2. Analysis using BN
